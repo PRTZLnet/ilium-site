@@ -25,7 +25,7 @@
 			  <nav id="nav">
 					<ul>
 					  <li>&nbsp;</li>
-					  <li><a href="generic.html">Sign up</a></li>
+					  <li><a href="">Sign up</a></li>
 					  <li>&nbsp;</li>
 					  <li></li>
 					</ul>
@@ -37,7 +37,7 @@
 				<div class="container">
 
 					<header class="major special">
-					  <h2>Join ilum</h2>
+					  <h2>Join ilium</h2>
 					  <p>become a member</p>
 					</header>
 
@@ -50,7 +50,7 @@
 <br />
 
 <label>Soundcloud</label>
-<input type="text" name="department" />
+<input type="text" name="sc" />
 <br />
 <label>Email</label>
 <input type="text" name="email" />
@@ -59,9 +59,7 @@
 <input type="submit" value="Submit">
 </form>
 
- 
- 
- 
+
 </body>
                     
 				</div>
@@ -76,7 +74,7 @@
 						<li></li>
 					</ul>
 					<ul class="copyright">
-					  <li>&copy; Ilium</li>
+					  <li>&copy; Ilium, founded by Andrew Sweeney & Jackson Koeper</li>
 					</ul>
 				</div>
 			</footer>
