@@ -38,7 +38,7 @@
 
 					<header class="major special">
 					  <h2>Join ilium</h2>
-					  <p>become a member</p>
+					  <p>Apply to become a member</p>
 					</header>
 
 					<a href="#" class="image fit"></a>
@@ -46,14 +46,14 @@
                      
 <form method="post" action="process.php">
 <label>Name</label>
-<input type="text" name="name" />
-<br />
-
+<input placeholder="knyvez" type="text" name="name" />
+	<br />
 <label>Soundcloud</label>
-<input type="text" name="sc" />
+<input type="file" name="sc" />
 <br />
+	<br />
 <label>Email</label>
-<input type="text" name="email" />
+<input placeholder="andrew@knyvez.com" type="text" name="email" />
  
 <br />
 <input type="submit" value="Submit">
@@ -75,6 +75,8 @@
 					</ul>
 					<ul class="copyright">
 					  <li>&copy; Ilium, founded by Andrew Sweeney & Jackson Koeper</li>
+						<li>Built by quinn.prtzl.net</li>
+						<li>Design by templated.co</li>
 					</ul>
 				</div>
 			</footer>
